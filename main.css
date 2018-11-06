@@ -18,11 +18,12 @@ header {
   background-image: url("assets/gilles-lambert-249996.jpg");
   background-size:cover;
   height:auto;
+  font-family: 'macho', sans-serif;
 }
 
 header h1 {
     font-size: 70px;
-    font-family: 'Montserrat', sans-serif;
+
 }
 header span {
   color: #eab100
@@ -32,7 +33,7 @@ header span {
 body {
   margin:10px;
   padding: 1px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'macho', sans-serif;
 
 }
 
@@ -61,14 +62,14 @@ p {
   background-size:cover;
   background-position: 50% 38%;
   padding: 10%;
-  min-height: 400px;
+  min-height: 300px;
 }
 .bed {
   background-image: url("assets/rhema-kallianpur-275251.jpg");
   background-size:cover;
   background-position: 50% 38%;
   padding: 10%;
-  min-height: 400px;
+  min-height: 300px;
 
 }
 
@@ -126,12 +127,12 @@ p {
 }
 
 .goodnight h2 {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 /* - - - - - - - - - QUOTE - - - - - - -  - */
 .quote p {
-  font-size: 50px;
+  font-size: 20px;
   padding: 5%;
 
 }
