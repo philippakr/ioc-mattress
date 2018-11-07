@@ -182,10 +182,10 @@ footer {
 }
 
 footer h2 {
-  text-size:60px;
-  line-height: 30px;
-
+  font-size:50px;
+  line-height: 40px;
 }
+
 footer span {
     color:#eab100;
 }
